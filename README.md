@@ -16,7 +16,7 @@
   </div>
 
   <div align="center">
-    🌐 <strong>Live Demo</strong>: <a href="https://your-username.github.io/SpaceX/">SpaceX Website</a>
+    🌐 <strong>Live Demo</strong>: <a href="https://KarthickRamAlagar.github.io/SpaceX/">SpaceX Website</a>
   </div>
 </div>
 
@@ -73,3 +73,10 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/your-username/SpaceX.git
 cd SpaceX
+```
+## Installation
+No additional dependencies are required. Simply open the index.html file in your browser to view the website.
+## Acknowledgements
+HTML5
+CSS3
+JavaScript
